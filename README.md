@@ -1,8 +1,7 @@
 WiW
 ===
-App to keep track o what you wore and when to help avoid putting the
-same cloth in a similar situation. At the same time get tips,
-recomendations and trends suited to your style.
+What I Wore "WiW", it´s an app to keep track o what and when you wore things, to help avoid putting the
+same cloth in a similar situation. At the same time get tips, recomendations and trends suited to your style.
 
 -Share: Share your style and combinations you make out.
 
